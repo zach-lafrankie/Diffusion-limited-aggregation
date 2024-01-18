@@ -1,5 +1,5 @@
 # Diffusion-limited-aggregation
-This model utilized a diffusion-limited aggregation process to simulate bacterial growth on a limited nutrient substrate.
+This model utilizes a diffusion-limited aggregation process to simulate bacterial growth on a limited nutrient substrate.
 
 #Black and White cluster
 -Inital code used to implement DLA into a bacterial growth simulation. All other files were built off this initial code.
